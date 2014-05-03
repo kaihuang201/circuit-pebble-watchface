@@ -1,0 +1,43 @@
+{
+  "uuid": "42a43aa1-8738-4d62-bcfb-7aa0d0d92f4a",
+  "shortName": "Circuit",
+  "longName": "Circuit",
+  "companyName": "Kai Huang",
+  "versionCode": 5,
+  "versionLabel": "2.6.2",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_POWER",
+        "file": "images/power.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CHARGING",
+        "file": "images/charging.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_42",
+        "file": "fonts/ObliviousFont.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_12",
+        "file": "fonts/ObliviousFont.ttf"
+      }
+    ]
+  }
+}
